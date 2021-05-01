@@ -1,0 +1,3 @@
+<!--pages/cetchaxun/cetchaxun.wxml-->
+<!-- <button bindtap="openCet">进入查询界面</button> -->
+<!-- <web-view src="{{newsUrl}}"></web-view> -->
